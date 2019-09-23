@@ -1,9 +1,10 @@
-#My First Respository
+# My First Respository
 
-##Table of Contents
+## Table of Contents
 1. desserts
 2. drinks
 3. pancakes
 
-##Description
-A repository about various kinds of foods that pancake the hooman enjoys. 
+## Description
+1. Stuff that pancake the hooman likes to enjoy. 
+ 
